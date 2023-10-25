@@ -1,0 +1,11 @@
+{
+    "SHODAN_API_KEY": "1234567890ABCDEF",
+    "remote_code_on_target": "nc {ip} {port}",
+    "success_text": "Connection successful",
+    "error_text": "Connection refused",
+    "search_query": "apache",
+    "target_port": "80",
+    "limit": "100",
+    "num_threads": "10",
+    "thread_timeout": "60"
+}
