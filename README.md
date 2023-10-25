@@ -16,12 +16,12 @@ Shodan Executer is a tool designed to utilize the Shodan API to scan and test re
 
 1. Clone the repository:
 ```
-git clone <URL_of_your_GitHub_repository>
+git clone https://github.com/m4ary/Shodan-Executer
 ```
 
 2. Navigate to the Shodan Executer directory:
 ```
-cd <repository_name>
+cd Shodan-Executer
 ```
 
 3. Install the required Python libraries:
